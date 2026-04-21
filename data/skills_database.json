@@ -1,0 +1,48 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "Go", "Rust",
+    "Ruby", "Swift", "Kotlin", "Scala", "PHP", "R", "MATLAB", "Julia", "SQL",
+    "Dart", "Bash", "Shell", "Perl", "C", "HTML", "CSS"
+  ],
+  "frameworks": {
+    "python": [
+      "Django", "Flask", "FastAPI", "Streamlit", "Pandas", "NumPy",
+      "TensorFlow", "PyTorch", "scikit-learn", "Keras", "XGBoost",
+      "LightGBM", "SciPy", "NLTK", "spaCy", "Transformers", "Celery"
+    ],
+    "javascript": [
+      "React", "Angular", "Vue", "Node.js", "Express", "Next.js",
+      "NestJS", "Svelte", "jQuery", "D3.js"
+    ],
+    "java": [
+      "Spring", "Spring Boot", "Hibernate", "Maven", "Gradle"
+    ],
+    "other": [
+      "Rails", ".NET", "Flutter", "React Native", "GraphQL", "gRPC"
+    ]
+  },
+  "data_science": [
+    "Machine Learning", "Deep Learning", "NLP", "Computer Vision",
+    "Data Analysis", "Feature Engineering", "Model Deployment",
+    "A/B Testing", "Statistics", "Reinforcement Learning",
+    "Transfer Learning", "Time Series", "Clustering", "Classification",
+    "Regression", "Neural Networks", "Generative AI", "LLM", "RAG",
+    "LangChain", "Sentiment Analysis", "Anomaly Detection"
+  ],
+  "cloud_platforms": [
+    "AWS", "GCP", "Azure", "Docker", "Kubernetes", "Terraform",
+    "Ansible", "Jenkins", "GitHub Actions", "GitLab CI", "Heroku",
+    "Vercel", "Prometheus", "Grafana", "Nginx", "MLflow", "Airflow"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch",
+    "Snowflake", "BigQuery", "Cassandra", "SQLite", "Oracle",
+    "DynamoDB", "Redshift", "Firebase", "Neo4j"
+  ],
+  "soft_skills": [
+    "Leadership", "Communication", "Teamwork", "Problem Solving",
+    "Critical Thinking", "Agile", "Scrum", "Project Management",
+    "Mentoring", "Stakeholder Management", "Time Management",
+    "Collaboration", "Adaptability", "Presentation"
+  ]
+}

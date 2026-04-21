@@ -1,0 +1,30 @@
+{
+  "data_scientist": [
+    "python", "r", "sql", "machine learning", "deep learning", "statistics",
+    "tensorflow", "pytorch", "pandas", "numpy", "visualization", "nlp",
+    "feature engineering", "model deployment", "a/b testing", "scikit-learn",
+    "jupyter", "kaggle", "algorithms", "computer vision"
+  ],
+  "data_analyst": [
+    "sql", "excel", "tableau", "power bi", "python", "statistics",
+    "reporting", "dashboards", "analytics", "business intelligence",
+    "kpi", "metrics", "etl", "data cleaning", "statistical analysis",
+    "stakeholders", "r", "looker", "visualization"
+  ],
+  "ml_engineer": [
+    "python", "tensorflow", "pytorch", "docker", "kubernetes", "mlops",
+    "aws", "model deployment", "gcp", "azure", "ci/cd", "pipeline",
+    "api", "microservices", "feature store", "model monitoring",
+    "production", "scalability", "machine learning"
+  ],
+  "software_engineer": [
+    "python", "java", "javascript", "git", "agile", "api", "microservices",
+    "docker", "kubernetes", "ci/cd", "testing", "debugging", "sql",
+    "nosql", "system design", "rest", "typescript", "scrum"
+  ],
+  "data_engineer": [
+    "python", "sql", "spark", "airflow", "etl", "aws", "data warehouse",
+    "hadoop", "kafka", "streaming", "data modeling", "schema design",
+    "bigquery", "snowflake", "gcp", "pipeline", "redshift"
+  ]
+}

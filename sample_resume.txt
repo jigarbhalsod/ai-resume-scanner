@@ -1,0 +1,87 @@
+John Doe
+Email: john.doe@gmail.com | Phone: +1-415-555-0192
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+─────────────────────────────────────────────────────────
+SUMMARY
+─────────────────────────────────────────────────────────
+Data Scientist with 3+ years of experience building machine learning
+and deep learning systems in production. Strong background in Python,
+TensorFlow, PyTorch, and statistical modelling. Passionate about turning
+raw data into actionable insights. Track record of shipping ML models
+that directly improved business metrics.
+
+─────────────────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior Data Scientist — Tech Company Inc
+January 2022 – Present
+
+- Built and deployed a real-time fraud detection model using XGBoost and
+  scikit-learn, reducing false positives by 34% and saving $1.2M annually
+- Designed an NLP pipeline using spaCy and Transformers to classify 50,000+
+  customer support tickets daily, cutting manual triage time by 60%
+- Trained deep learning image classification models in PyTorch (ResNet, EfficientNet)
+  achieving 94% accuracy on a proprietary dataset of 200K images
+- Implemented MLflow experiment tracking and automated retraining pipelines
+  using Apache Airflow, reducing model refresh cycle from 2 weeks to 3 days
+- Collaborated with engineering teams to productionize models via REST APIs
+  built with FastAPI, serving 10M+ predictions per month on AWS
+
+Data Analyst — StartUp Corp
+June 2020 – December 2021
+
+- Wrote complex SQL queries against PostgreSQL and BigQuery to analyse
+  user behaviour across 5 product lines for 2M+ active users
+- Built interactive Tableau and Power BI dashboards tracking 12 core KPIs,
+  used daily by C-suite for strategic decision making
+- Conducted A/B tests on product features using Python (pandas, scipy, statsmodels),
+  driving a 12% improvement in user retention
+- Automated weekly reporting pipelines using Python and Apache Airflow,
+  saving 8 hours of manual work per week
+- Presented data-driven recommendations to stakeholders, directly influencing
+  $500K in product investment decisions
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+MS Data Science — State University, 2020
+GPA: 3.8/4.0 | Relevant coursework: Machine Learning, Deep Learning, NLP,
+Statistical Inference, Big Data Systems
+
+BS Computer Science — City College, 2018
+GPA: 3.6/4.0 | Relevant coursework: Algorithms, Data Structures,
+Linear Algebra, Probability & Statistics
+
+─────────────────────────────────────────────────────────
+SKILLS
+─────────────────────────────────────────────────────────
+Programming Languages: Python, R, SQL, JavaScript, Bash
+ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost, Keras, LightGBM
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Jupyter
+Databases: PostgreSQL, MongoDB, Redis, BigQuery, Snowflake
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes, Airflow, MLflow
+BI Tools: Tableau, Power BI, Looker
+Other: Git, Agile, Scrum, REST APIs, FastAPI, Streamlit
+
+─────────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────────
+Sentiment Analysis Pipeline (2023)
+Built an end-to-end sentiment analysis system using BERT (Transformers)
+fine-tuned on a custom dataset of 100K product reviews. Deployed as a
+FastAPI microservice on GCP with Docker, achieving sub-50ms latency.
+Tech: Python, PyTorch, Transformers, FastAPI, Docker, GCP
+
+Real-Time Recommendation Engine (2022)
+Designed a collaborative filtering recommendation system using matrix
+factorisation, serving personalised recommendations to 500K users.
+Integrated Redis for caching and PostgreSQL for user interaction storage.
+Tech: Python, scikit-learn, Redis, PostgreSQL, Flask, AWS
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+- AWS Certified Machine Learning Specialty (2023)
+- Google Professional Data Engineer (2022)
+- TensorFlow Developer Certificate — Google (2021)
