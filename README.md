@@ -125,4 +125,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Jigar Bhalsod**  
-[GitHub](https://github.com/jigarbhalsod) • [LinkedIn](https://linkedin.com/in/jigarbhalsod)
+[GitHub](https://github.com/jigarbhalsod) • [LinkedIn](www.linkedin.com/in/jigar-bhalsod)
